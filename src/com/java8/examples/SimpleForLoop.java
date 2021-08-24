@@ -1,6 +1,6 @@
 package src.com.java8.examples;
 
-import java.util.stream.IntStream;
+        import java.util.stream.IntStream;
 
 public class SimpleForLoop {
 
